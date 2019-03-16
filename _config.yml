@@ -1,7 +1,7 @@
 # Site settings
 title: ZhouYu Blog
 SEOTitle: 周宇的博客 | ZhouYu Blog
-header-img: img/bg.jpeg
+header-img: img/bg.jpg
 email: dylanzhou0@sina.com
 description: "日拱一卒"
 keyword: "ZhouYu, ZhouYu Blog, 周宇的博客, 周宇, Nodejs, Python, 后端, 机器学习"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/dylanzhou01/dylanzhou01.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "日拱一卒!"
-sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
